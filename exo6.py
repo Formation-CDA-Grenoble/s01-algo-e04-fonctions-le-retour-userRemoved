@@ -1,6 +1,6 @@
 def order(list):
     # Début de ton code
-    pass
+    return test [1]
     # Fin de ton code
 
 

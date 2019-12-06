@@ -1,6 +1,9 @@
+
+import random 
 def mix(list):
     # Début de ton code
-    pass
+    random.shuffle (test)
+    return test
     # Fin de ton code
 
 
