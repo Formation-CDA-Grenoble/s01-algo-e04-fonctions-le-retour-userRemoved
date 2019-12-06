@@ -1,6 +1,11 @@
 def rankInside(list, element):
     # Début de ton code
-    pass
+    # Dans le fichier **exo2.py**, tu dois écrire une fonction qui trouve à quelle place d'une liste se trouve un élément.
+     
+    if element in list :
+        return list.index (element)
+
+
     # Fin de ton code
 
 

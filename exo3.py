@@ -1,9 +1,12 @@
 def concatenate(list):
     # Début de ton code
-    pass
+    # Dans le fichier **exo3.py**, tu dois écrire une fonction qui concatène tous les éléments d'une liste.
+
+
+    return list.join(list) 
     # Fin de ton code
 
-
+    
 
 # Pas touche!
 tests = (
